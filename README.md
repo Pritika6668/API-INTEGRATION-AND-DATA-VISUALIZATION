@@ -12,6 +12,8 @@
 
 -Batch Duration: May 30th,2025 to July 15th,2025
 
+-Output:f05cda12e0e7)![Image](https://github.com/user-attachments/assets/93e531cc-a96b-4806-8cd0-
+
 ## Project Description
 
 The "API Integration and Data Visualization" project is a comprehensive internship task aimed at building foundational skills in Python programming, RESTful API handling, and data visualization. As part of the Python Development domain, this project enhances the practical understanding of how modern applications consume real-time data from third-party APIs and present it in meaningful visual formats.
