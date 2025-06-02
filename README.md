@@ -12,7 +12,7 @@
 
 -Batch Duration: May 30th,2025 to July 15th,2025
 
--Output:f05cda12e0e7)![Image](https://github.com/user-attachments/assets/93e531cc-a96b-4806-8cd0-
+-Output: https://github.com/Pritika6668/API-INTEGRATION-AND-DATA-VISUALIZATION/blob/b2bb725e6b616945da351e91f78c94fe5483b9c9/temperature_forecast.png
 
 ## Project Description
 
